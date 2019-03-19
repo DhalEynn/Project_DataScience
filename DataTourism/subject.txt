@@ -4,7 +4,7 @@ Projet IDU DATAtourisme
 DATAtourisme :
 Le projet DATAtourisme, initié par la Direction Générale des Entreprises, est un projet national collaboratif dont l’objectif est de faciliter l’accès aux données publiques d’informations touristiques. La plateforme mise en place est une agrégation des bases de données locales des différents organismes touristiques institutionnels rendues homogènes en transformant leur format respectif vers une ontologie commune compatible avec les technologies du Web sémantique.
 
-Cette base de données est accessible gratuitement en ligne par une application Web permettant de la télécharger sous différents formats (~1 Go), de l’interroger par l’intermédiaire d’un éditeur visuel de requêtes (très incomplet) où via des requêtes SPARQL.
+Cette base de données est accessible gratuitement en ligne par une application Web permettant de la télécharger sous différents formats (~1 Go), de l’interroger par l’intermédiaire d’un éditeur visuel de requêtes (très incomplet) où via des requêtes SPARQL. [https://fr.wikipedia.org/wiki/SPARQL]
 
 
 Objectifs :
