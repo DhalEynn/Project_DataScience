@@ -8,7 +8,7 @@ Cette base de données est accessible gratuitement en ligne par une application 
 
 
 Objectifs :
-Le travail demandé consiste à identifier, en utilisant la plateforme DATAtourisme, les différentes prestations touristiques des départements de Savoie et de Haute Savoie (départements 73 et 74) et à extraire ces dernières, ainsi que leur description si elle existe, dans un fichier CSV.
+Le travail demandé consiste à identifier, en utilisant la plateforme DATAtourisme, les différentes prestations touristiques des départements de Savoie et de Haute Savoie (départements 73 et 74) et à extraire ces dernières, ainsi que leur description si elle existe, dans un fichier CSV. [https://fr.wikipedia.org/wiki/Comma-separated_values]
 Si le temps le permet durant la durée du projet, un travail similaire sera à faire en utilisant la plateforme APIDAE.
 
 
