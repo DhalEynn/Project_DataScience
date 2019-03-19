@@ -1,0 +1,2 @@
+2. Open Food Facts
+Votre client veut créer une application permettant de connaitre les ingrédients entrant dans la composition des produits qu'il achète, il souffre de nombreuses allergies et apprécie peu les additifs industriels. Faites-en sorte de fournir l'ensemble des produits qui ne contiennent pas l'élément donné par l'utilisateur

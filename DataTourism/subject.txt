@@ -1,0 +1,33 @@
+Projet IDU DATAtourisme
+
+
+DATAtourisme :
+Le projet DATAtourisme, initié par la Direction Générale des Entreprises, est un projet national collaboratif dont l’objectif est de faciliter l’accès aux données publiques d’informations touristiques. La plateforme mise en place est une agrégation des bases de données locales des différents organismes touristiques institutionnels rendues homogènes en transformant leur format respectif vers une ontologie commune compatible avec les technologies du Web sémantique.
+
+Cette base de données est accessible gratuitement en ligne par une application Web permettant de la télécharger sous différents formats (~1 Go), de l’interroger par l’intermédiaire d’un éditeur visuel de requêtes (très incomplet) où via des requêtes SPARQL.
+
+
+Objectifs :
+Le travail demandé consiste à identifier, en utilisant la plateforme DATAtourisme, les différentes prestations touristiques des départements de Savoie et de Haute Savoie (départements 73 et 74) et à extraire ces dernières, ainsi que leur description si elle existe, dans un fichier CSV.
+Si le temps le permet durant la durée du projet, un travail similaire sera à faire en utilisant la plateforme APIDAE.
+
+
+Contacts :
+Olivier Hotel : olivier.hotel@univ-smb.fr
+Hervé Verjus : herve.verjus@univ-smb.fr
+Frédéric Pourraz : frederic.pourraz@univ-smb.fr
+
+
+Liens :
+Site DataTourisme (la connexion à la plateforme est gratuite mais nécessite de créer un compte):
+https://diffuseur.datatourisme.gouv.fr/fr/login
+
+Documentation – Description de la base de données, des ontologies et de l’application Web :
+http://www.datatourisme.fr/wp-content/uploads/2018/04/DATAtourisme_Documentation_application_Diffuseurs_-Partie1_v1.0.pdf
+
+APIDAE - https://www.apidae-tourisme.com/apidae-tourisme/
+
+
+Cadre du projet et unité de recherche:
+Projet Interreg Franco-Suisse Transfrontour
+Laboratoire LISTIC
